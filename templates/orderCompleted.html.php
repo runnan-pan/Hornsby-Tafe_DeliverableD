@@ -1,0 +1,1 @@
+<h3>Thank you, your order has been received.</h3>
